@@ -1,0 +1,168 @@
+body{
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.header{
+    width: 100%;
+    height: 85px;
+    background:#3b5998;
+}
+.logo{
+    width: 50%;
+    padding-top: 47px;
+    float: left;
+
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top:14px ;
+}
+.logo-text{
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 120px;
+}
+.login-label{
+    color: #fff;
+    font-size: 12px;
+    border-color: lightgray;
+}
+.login-controls{
+    margin-left: 95px;
+}
+.head-login{
+    border-color: lightgray;
+    width: 160px;
+}
+.forgotten{
+    color: #fff;
+    font-size: 12px;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+.sub-btn{
+    background: #3b5998;
+    color: #fff;
+    border-color: #29487d;
+    height: 20px;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background: #9cb4d8;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 30px;
+    padding-top: -17;
+}
+.right-section{
+    width: 40%;
+    float: left;
+    margin-top: 2px;
+    margin-left: 90px;
+}
+.body{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 572px;
+}
+.img{
+    width: 520px;
+    margin-top: 40px;
+}
+.img2{
+    width: 380px;
+    height: 260px;
+    margin-left: 70px;
+}
+.creat-heading{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+
+}
+.para{
+    margin-top: -20px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.name{
+    height: 20px;
+    border-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sure-name{
+    height: 20px;
+    border-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.user-name{
+    margin-top:10px;
+    height:20px;
+    width:350px;
+    border-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.password{
+    margin-top: 10px;
+    height: 20px;
+    width: 350px;
+    border-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.para2{
+    color: #7e7474;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.para3{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #7e7474;
+}
+.day{
+    height: 23px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+.month{
+    height: 23px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+.year{
+    height: 23px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+.male{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.female{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.custom{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.para4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+
+}
+.sign-up{
+    width: 160px;
+    height: 32px;
+    background: green;
+    color: #fff;
+    border-color: lightslategray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.para5{
+    margin-top: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
